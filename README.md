@@ -19,7 +19,7 @@ Menu Extractor is a Python program that extracts menu items from a given website
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/menu-extractor.git
+   git clone https://github.com/HridoyVaraby/Menu-extrator.git
    cd menu-extractor
    ```
 
